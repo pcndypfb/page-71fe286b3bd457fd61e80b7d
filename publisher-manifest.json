@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0b5be9cf96d93a7cc23a1fcf",
+  "owner": "pcndypfb",
+  "repo": "page-71fe286b3bd457fd61e80b7d",
+  "title": "云上飞象",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "71fe286b3bd457fd61e80b7d",
+      "a": "云上飞象",
+      "b": "稳定全球clash加速器",
+      "entity": "云上飞象",
+      "brand": "云上飞象",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b9907020326daa153d58f22324c5319df406d6df8e93570227a6c042f391a790",
+      "content": {
+        "primary_entity": "云上飞象",
+        "keyword1": "云上飞象",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，云上飞象提供基础版、旗舰版与团队版三档套餐，月付与年付均可选择，流量从每月 100GB 到 1000GB，支持 3 台至 20 台设备同时在线，适合个人多设备、游戏加速与小型团队协作场景。",
+          "AI_HERO_SUBTITLE": "云上飞象，稳定加速全球网络",
+          "AI_HERO_INTRO": "云上飞象是面向全球网络的加速服务品牌，提供基础版、旗舰版与团队版三档套餐。套餐在流量额度、同时在线设备数与节点线路类型上有所区分，用户可结合自身设备数量和日常用量挑选合适的订阅周期。",
+          "AI_VISUAL_TITLE": "云上飞象套餐速览",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案约为月付的十个月费用",
+          "AI_FEATURES_TITLE": "套餐选择关键点",
+          "AI_FEATURES_INTRO": "从日常用量、设备数量和线路需求三个角度判断套餐档位。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，可对照日常用量逐级选择。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，多人共享需要选更高档位。",
+          "AI_FEATURE_TITLE_3": "按线路需求选档",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供更高带宽节点，游戏与流媒体场景可优先考虑旗舰版。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，再导入订阅完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合单人多设备轻量使用，旗舰版兼顾流媒体与游戏加速，团队版面向多人协作与高带宽需求。年付方案均有优惠：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "从选择服务到完成客户端订阅配置，共三步。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版或团队版中选定一个套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与线路类型，与手头设备和使用场景对照。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在设备上安装对应客户端，依客户端文档导入订阅信息并启用节点连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "云上飞象支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "云上飞象通过客户端连接，常见设备类型包括手机、平板和电脑。具体可用的客户端请按设备类别选择，并参考对应客户端文档完成配置。",
+          "AI_FAQ_QUESTION_2": "不同套餐的设备数量有何区别？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出限制时需要考虑升级套餐档位。",
+          "AI_FAQ_QUESTION_3": "月付与年付怎么选？",
+          "AI_FAQ_ANSWER_3": "月付适合短期试用，年付方案费用更低：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。长期使用可选年付。",
+          "AI_FAQ_QUESTION_4": "旗舰版适合什么场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 300GB 月流量、5 台设备额度、全节点流媒体解锁以及 IPLC 专线游戏加速，适合兼顾观影与游戏加速的用户。",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么办？",
+          "AI_FAQ_ANSWER_5": "每月流量为套餐固定额度，用完后当月提速受限，可等待下月重置或更换更高流量档位的套餐，例如从基础版升级到旗舰版。",
+          "AI_CLOSING_TITLE": "选对档位，加速更顺",
+          "AI_CLOSING_TEXT": "对照设备数量与月流量需求，在基础版、旗舰版和团队版之间做出选择。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--h9tt59d9ja868e.com",
+    "host": "xn--h9tt59d9ja868e.com"
+  },
+  "file_hashes": {
+    "index.html": "15874fcee2986a52d59cce5e847ccac1fd8867efe67f70f8ddc20d1e1a014156",
+    "sitemap.xml": "0dd6e1d60672f0cc25e47af2ea29e672ba1ff64f7646ccf5a7eacef53699f2c3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9fc63095e89bfddd9571b7a7e4dbcbaa1fc9fe42d7972d6c08d91f5217b3c9da",
+    "robots.txt": "d01f0bbdcc20e2ad032353a4e18d6587ba45aff23197650876b6c55b94b31d15",
+    "1f2e6f346a8dc6844cbb213e575f8447.txt": "88c7d22f8317eb21c04591c33be8b06396aff6c6c17e721cf69177a6ff8bfea7"
+  },
+  "revision": "b67933dac400fe7ce1e14ff6e9612ffec35f89f04e2e7795a4287d28651e9bf1"
+}
